@@ -41,7 +41,7 @@ I would have been 6 or 7, and I don&#8217;t remember the specifics, but the big 
 
 I&#8217;d say the biggest thing I hate is the dramatization. Instead of just saying it is winter and it can get cold, we have things like the Polar Vortex. The dramatization doesn&#8217;t just stick to weather patterns sadly. I also hate that newspapers like the WSJ and NYT play into the stereotypes we have created for Republicans and Democrats. This really comes out in the opinions columns, but that&#8217;s another conversation.
 
-**8. Which Kansas City are you from? I get confused. **
+**8. Which Kansas City are you from? I get confused.**
 
 From the Kansas side, living on the Missouri side now. Fair question!
 
