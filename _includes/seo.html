@@ -1,16 +1,4 @@
-{% if page.url == "/" %}
-			{% capture seo_title %}{{ site.name }} &raquo; {{ site.description }}{% endcapture %}
-	    {% assign seo_desc = site.description %}
-	{% else %}
-	    {% capture seo_title %}{{ page.title }} &raquo; {{ site.name }}{% endcapture %}
-	    {% assign seo_desc = page.excerpt %}
-	{% endif %}
 
-	{% if site.github.url %}
-		{% assign url_base = site.github.url %}
-	{% else %}
-		{% assign url_base = site.url %}
-	{% endif %}
 
 
 
