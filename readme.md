@@ -17,4 +17,6 @@ Code: [MIT](http://opensource.org/licenses/mit-license.php)
 4. Add related links
 5. Add social 
 6. Add tiny letter
+7. Add better page navigation
+8. Add categorization / tagging.
 
