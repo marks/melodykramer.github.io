@@ -10,3 +10,5 @@ categories:
 
 
 **Facebook Stickers:** a good way for Facebook to know your mood or activity in order to serve up even more personalized ads. Metadata disguised as fun sticker. 
+
+![a screenshot of Facebook stickers](/assets/blog/facebookstickers.png)
