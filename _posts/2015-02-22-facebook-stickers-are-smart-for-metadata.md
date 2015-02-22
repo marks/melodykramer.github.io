@@ -2,6 +2,7 @@
 title: Facebook Stickers Are Smart For Metadata
 author: melodyjoykramer
 layout: post 
+image: /assets/blog/facebookstickers.png
 permalink: /facebook-stickers-are-smart-for-metadata.md
 categories:
   - tips and tools
