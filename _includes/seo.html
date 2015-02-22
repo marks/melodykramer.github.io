@@ -12,15 +12,7 @@
 		{% assign url_base = site.url %}
 	{% endif %}
 
-	<title>{{ seo_title }}</title>
-	<meta property="og:title" content="{{ seo_title }}"/>
 
-	<meta property="og:site_name" content="{{ site.name }}"/>
-
-
-	{% if page.robots %}
-	<meta name="robots" content="{{ page.robots }}" />
-	{% endif %}
 
 	<link rel="canonical" href="{{ url_base }}{{ page.url }}"{% if page.url == "/404.html" %} data-proofer-ignore="true"{% endif %}/>
 	{% if page.next.url %}<link rel="next" href="{{ url_base }}{{ page.next.url }}" title="{{ page.next.title }}" />{% endif %}
