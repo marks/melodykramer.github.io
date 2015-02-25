@@ -10,7 +10,7 @@ This is a project that will take much longer than two months. I plan to use the 
 
 I thought I would update you on my progress so far and request feedback. This will not work unless it's designed with and for the public. Please email, tweet, or edit this page with your suggestions.
 
-First, I'm planning to adapt an open source program that 18F developed called [Midas](https://github.com/18F/midas) for public radio stations. Midas is basically a "Kickstarter for people's time." It will allow stations to list projects they need help with, and allow people to sign up for those projects.
+First, I'm planning to adapt an open source program that 18F developed called [Midas](https://github.com/18F/midas) for public radio stations. Midas is basically a "Kickstarter for people's time." It will allow stations to list projects they need help with, and allow people to sign up to help specifically with those projects.
 
 Second, I'm planning to adapt the NYTLab's platform [Hive](https://github.com/nytlabs/hive) for stations, so that members of their communities (and the Internet) can add valuable metadata to the audio, which will allow the audio to be distributed in different ways.
 
@@ -22,7 +22,7 @@ I'm teaching myself the languages that these programs use, but I'm not a master-
 
 Third, I'm planning to interview lots of people who have thought about membership or affilation who work in public media. I'm also hoping to talk to people who don't work in public media.
 
->If you work in public media and would like to talk, please let me konw. If are a librarian, park ranger, Code for America fellow, a person who works at a JCC/YMCA, and/or a person who works at a local tool library and would like to talk, please let me know.
+>If you work in public media and would like to talk, please let me know. If are a librarian, park ranger, Code for America fellow, a person who works at a JCC/YMCA, and/or a person who works at a local tool library and would like to talk, please let me know.
 
 Fourth, I have been talking to stations and plan to follow up with them this month. There are small prototypes of projects we can do, without the need for software. These projects include things like digitizing audio, helping with events, designing artwork, and leading community groups in public media spaces. I'm hoping at least one or two of these projects can be prototyped during May and June. The stations I have talked to are willing to try this out with 10 to 20 new members.
 
