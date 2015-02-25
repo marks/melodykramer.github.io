@@ -22,7 +22,7 @@ I'm teaching myself the languages that these programs use, but I'm not a master-
 
 Third, I'm planning to interview lots of people who have thought about membership or affilation who work in public media. I'm also hoping to talk to people who don't work in public media.
 
->If you work in public media and would like to talk, please let me konw. If are a librarian, park ranger, Code for America fellow, a person who works at a JCC/YMCA, and/or a person who works at a local tool library and would like to talk, please let me know.
+>If you work in public media and would like to talk, please let me know. If are a librarian, park ranger, Code for America fellow, a person who works at a JCC/YMCA, and/or a person who works at a local tool library and would like to talk, please let me know.
 
 Fourth, I have been talking to stations and plan to follow up with them this month. There are small prototypes of projects we can do, without the need for software. These projects include things like digitizing audio, helping with events, designing artwork, and leading community groups in public media spaces. I'm hoping at least one or two of these projects can be prototyped during May and June. The stations I have talked to are willing to try this out with 10 to 20 new members.
 
