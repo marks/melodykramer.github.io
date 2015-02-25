@@ -10,7 +10,7 @@ This is a project that will take much longer than two months. I plan to use the 
 
 I thought I would update you on my progress so far and request feedback. This will not work unless it's designed with and for the public. Please email, tweet, or edit this page with your suggestions.
 
-** First**, I'm planning to adapt an open source program that 18F developed called [Midas](https://github.com/18F/midas) for public radio stations. Midas is basically a "Kickstarter for people's time." It will allow stations to list projects they need help with, and allow people to sign up for those projects.
+** First **, I'm planning to adapt an open source program that 18F developed called [Midas](https://github.com/18F/midas) for public radio stations. Midas is basically a "Kickstarter for people's time." It will allow stations to list projects they need help with, and allow people to sign up for those projects.
 
 ** Second**, I'm planning to adapt the NYTLab's platform [Hive](https://github.com/nytlabs/hive) for stations, so that members of their communities (and the Internet) can add valuable metadata to the audio, which will allow the audio to be distributed in different ways.
 
