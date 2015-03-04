@@ -14,4 +14,5 @@ I'm going to test this theory out again with a future tutorial, but I think it w
 
 Have a great day! 
 Mel 
-www.tinyletter.com/melodykramer
+
+[www.tinyletter.com/melodykramer](http://www.tinyletter.com/melodykramer)
