@@ -16,3 +16,9 @@ Have a great day!
 Mel 
 
 [www.tinyletter.com/melodykramer](http://www.tinyletter.com/melodykramer)
+
+**Update** [Jesse](https://twitter.com/jtag) writes "Might I also suggest "person tester"  someone who would benefit from the tutorial and with fresh eyes tries to follow the steps to complete the tutorial. Observe them using it and make revisions as necessary."
+
+[Ivan](https://twitter.com/ivanlajara) writes, "A ("A" as in "my") way of doing tutorials (for lack of better resources, namely people) is to do one draft public and basically seek input, along the lines of "this is what I did to make this work, but if you have a better way, share, pretty please. I like the idea having others look at things but in tutorial-land sometimes you're it, especially if you're trying a hack (for a small pub, to boot), even though it always helps to google things. Love the gifs."
+
+I should have pointed out that we did both of these things. You can see how the post was revised (with lots of input) [here](https://github.com/18F/18f.gsa.gov/issues/542)
