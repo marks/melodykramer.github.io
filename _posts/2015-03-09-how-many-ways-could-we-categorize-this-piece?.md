@@ -1,3 +1,5 @@
+Today's newsletter! (Want to subscribe? [Click here](http://www.tinyletter.com/melodykramer).)
+
 I picked [a random piece](http://www.npr.org/2014/10/16/354370783/w-va-pottery-company-keeps-popular-fiesta-line-alive-and-thriving) from the NPR archives. Let's think of all of the different ways we could categorize this piece.
 
 1. About: Fiesta
