@@ -7,6 +7,8 @@ permalink: /talks/
 
 Slides (and recordings) from some of the talks I've given over the years. Have a suggestion? [I'd love to hear it](https://github.com/melodykramer/talks/issues).
 
+Note: I just switched my blog over from Wordpress to Jekyll and am still fixing links at the bottom of this page. 
+
 
 **Writer:** [How PRI's David Beard Makes a Twitter Feed Worth Following](http://www.poynter.org/news/media-innovation/318369/melody-kramer-how-pris-david-beard-makes-a-twitter-feed-worth-following/) Poynter. February 2015.
 
