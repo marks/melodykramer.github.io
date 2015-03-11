@@ -21,6 +21,7 @@ Here&#8217;s what I&#8217;m picturing:
 3. no pop-ups, no overlaid ads, no bait-and-switch links  
 4. easy and big scroll buttons  
 5. maybe two-steps needed to leave the page
+6. Browser extensions or a dedicated browser serving this UI style
 
 Have you seen something that would be well-designed for Betty? What would you make?   #newsforbetty
 
