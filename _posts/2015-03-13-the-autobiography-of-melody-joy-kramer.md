@@ -28,7 +28,7 @@ What am I missing?
 Subcribe to my [TinyLetter](http://www.tinyletter.com/melodykramer)
 
 **Update**
-10. Matt Terenzio asks, "Were you playing a sport or on a merry-go-round?" ([Funf](http://www.funf.org/about.html))
+* Matt Terenzio asks, "Were you playing a sport or on a merry-go-round?" ([Funf](http://www.funf.org/about.html))
 
-11. Josh Tauberer says to call this a "Auto-meta(data)-graphy," which is a term I really like. 
+* Josh Tauberer says to call this a "Auto-meta(data)-graphy," which is a term I really like. 
  
