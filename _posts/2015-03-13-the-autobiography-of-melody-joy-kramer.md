@@ -1,4 +1,4 @@
-I worked in a rare books library during college. People came into the library to pour over documents. Most of the time, they were writing a paper or an autobiography and needed primary documents to piece together someone's life. 
+I worked in a rare books library during college. People came into the library to pore over documents. Most of the time, they were writing a paper or an autobiography and needed primary documents to piece together someone's life. 
 
 How could we write one of those now, without relying on any correspondence whatsoever? How could you could track me for an entire day?
 
