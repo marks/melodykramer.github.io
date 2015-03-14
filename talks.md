@@ -5,7 +5,7 @@ layout: page
 permalink: /talks/
 ---
 
-**Writer:**[How did KPCC get voters to care? They picked one and made him care.](http://www.poynter.org/news/media-innovation/324863/how-did-kpcc-get-voters-to-care-they-picked-one-and-made-him-care/) Poynter. March 2015.
+**Writer:** [How did KPCC get voters to care? They picked one and made him care.](http://www.poynter.org/news/media-innovation/324863/how-did-kpcc-get-voters-to-care-they-picked-one-and-made-him-care/) Poynter. March 2015.
 
 **Writer:** [Alex Duner has written a dozen interactive news apps. Up next? Graduating college.](http://www.poynter.org/news/media-innovation/323975/alex-duner-has-written-a-dozen-interactive-news-apps-up-next-graduating-college/) Poynter. March 2015.
 
@@ -20,7 +20,7 @@ permalink: /talks/
 **Writer:** [64 Ways To Think About a Homepage](https://medium.com/thelist/64-ways-to-think-about-a-news-homepage-223c01952d26) Medium. February 2015.
 
 
-**Writer:**[WNYC is helping people learn to be bored again](http://www.poynter.org/news/media-innovation/316207/melody-kramer-wnyc-is-helping-people-learn-to-be-bored-again/). Poynter. February 2015.
+**Writer:** [WNYC is helping people learn to be bored again](http://www.poynter.org/news/media-innovation/316207/melody-kramer-wnyc-is-helping-people-learn-to-be-bored-again/). Poynter. February 2015.
 
 
 **Writer:** [How Talking About Your Work in Progress Can Help Your Work in Public Media ](http://airmediaworks.org/blog/sharing-out-loud). AIRMedia. January 2015.
