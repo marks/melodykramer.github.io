@@ -7,8 +7,6 @@ permalink: /talks/
 
 Slides (and recordings) from some of the talks I've given over the years. Have a suggestion? [I'd love to hear it](https://github.com/melodykramer/talks/issues).
 
-Note: I just switched my blog over from Wordpress to Jekyll and am still fixing links at the bottom of this page. 
-
 
 **Writer:** [How PRI's David Beard Makes a Twitter Feed Worth Following](http://www.poynter.org/news/media-innovation/318369/melody-kramer-how-pris-david-beard-makes-a-twitter-feed-worth-following/) Poynter. February 2015.
 
@@ -123,64 +121,36 @@ Note: I just switched my blog over from Wordpress to Jekyll and am still fixing 
 
 [Ten with Melody Joy Kramer][6]. Society of Professional Journalists. December 2014.
 
+[Yes, Your Media Outlet Can Learn Something From The Kardashians](https://gigaom.com/2014/11/21/yes-your-media-outlet-can-learn-something-from-the-kardashians/). Matthew Ingram. GigaOm. November 2014.
 
-  (https://gigaom.com/2014/11/21/yes-your-media-outlet-can-learn-something-from-the-kardashians/)Yes, Your Media Outlet Can Learn Something From The Kardashians Matthew Ingram. GigaOm. November 2014.
+[Redefining The Way We Do Membership](http://greaterpublic.org/r/redefining-way-we-do-membership). Ellen Guettler and Melanie Coulson. Greater Public. October 2014.
 
+[NYTimes Asks Readers To Help Identify Print Ads, Using A Platform For Crowdsourcing Called Hive](https://gigaom.com/2014/10/14/nyt-asks-readers-to-help-identify-print-ads-also-launches-platform-for-crowdsourcing-called-hive/). Matthew Ingram. GigaOm. October 2014.
 
+[Check Out These Top Takeaways From #Mozfest ](https://www.journalism.co.uk/tip-of-the-day/tip-check-out-these-top-takeaways-from-mozfest/s419/a562962/)Abigail Edge. Journalism.co.uk. October 2014.
 
-  (http://greaterpublic.org/r/redefining-way-we-do-membership)Redefining The Way We Do Membership Ellen Guettler and Melanie Coulson. Greater Public. October 2014.
+[On Finding The Real Meaning of Membership ](http://www.themediabriefing.com/article/npr-melody-joy-kramer-identity-membership-mozfest). Jasper Jackson. The Media Briefing. October 2014.
 
+[How Early Adopter Brands Are Using Snapchat](http://digiday.com/brands/five-brands-using-snapchat/) Tanya Dua. Digiday. August 2014.
 
+[It’s Alive! What NPR Learned From Turning its @nprnews Twitter Account from a Bot to a Human](http://www.niemanlab.org/2014/05/its-alive-what-npr-learned-from-turning-its-nprnews-twitter-account-from-a-bot-into-a-human/) Joseph Lichterman. Nieman Journalism Lab. May 2014.
 
-  (https://gigaom.com/2014/10/14/nyt-asks-readers-to-help-identify-print-ads-also-launches-platform-for-crowdsourcing-called-hive/)NYTimes Asks Readers To Help Identify Print Ads, Using A Platform For Crowdsourcing Called Hive Matthew Ingram. GigaOm. October 2014.
+[Building An Analytics Culture in a Newsroom: How NPR is Trying to Expand its Digital Thinking](http://www.niemanlab.org/2014/04/building-an-analytics-culture-in-a-newsroom-how-npr-is-trying-to-expand-its-digital-thinking/) Joseph Lichterman. Nieman Journalism Lab. April 2014.
 
-
-
-  (https://www.journalism.co.uk/tip-of-the-day/tip-check-out-these-top-takeaways-from-mozfest/s419/a562962/)Check Out These Top Takeaways From #Mozfest Abigail Edge. Journalism.co.uk. October 2014.
-
-
-
-  (http://www.themediabriefing.com/article/npr-melody-joy-kramer-identity-membership-mozfest)On Finding The Real Meaning of Membership Jasper Jackson. The Media Briefing. October 2014.
-
+[Q&A: NPR Digital Strategist Melody Kramer](http://www.reporthers.com/post/82189104607/q-a-npr-digital-strategist-melody-joy-kramer) ReportHers. April 2014.
 
 
-  **(http://digiday.com/brands/five-brands-using-snapchat/)How Early Adopter Brands Are Using Snapchat) Tanya Dua. Digiday. August 2014.
+[Snapchat Opening Door for New Way of Journalism](http://college.usatoday.com/2014/03/06/snapchat-opening-the-door-for-new-way-of-journalism/) USA Today. March 2014.
 
+[NPRchives Project Revisits Sounds of 1984](http://www.current.org/2014/01/nprchives-project-brings-1984-back-in-style/) Current. January 2014.
 
+[Geek of the Week: Melody Kramer](http://www.geekadelphia.com/2012/11/07/geek-of-the-week-melody-kramer/) Corey Hulse. Geekadelphia. November 2012.
 
-  **(http://www.niemanlab.org/2014/05/its-alive-what-npr-learned-from-turning-its-nprnews-twitter-account-from-a-bot-into-a-human/)It’s Alive! What NPR Learned From Turning its @nprnews Twitter Account from a Bot to a Human) Joseph Lichterman. Nieman Journalism Lab. May 2014.
+[Meet the Guru Behind Fresh Air’s Web Success](http://www.current.org/2012/04/meet-the-guru-behind-fresh-airs-web-success/) Current.org. April 2012.
 
+[Meet the Most Popular Woman at NPR’s Fresh Air (And It’s Not Terry Gross](http://www.niemanlab.org/2012/04/meet-the-most-popular-woman-at-nprs-fresh-air-and-its-not-terry-gross/) Andrew Phelps. Nieman Journalism Lab. April 2012.
 
-
-  **(http://www.niemanlab.org/2014/04/building-an-analytics-culture-in-a-newsroom-how-npr-is-trying-to-expand-its-digital-thinking/)Building An Analytics Culture in a Newsroom: How NPR is Trying to Expand its Digital Thinking) Joseph Lichterman. Nieman Journalism Lab. April 2014.
-
-
-
-  **(http://www.reporthers.com/post/82189104607/q-a-npr-digital-strategist-melody-joy-kramer)Q&A: NPR Digital Strategist Melody Kramer) ReportHers. April 2014.
-
-
-
-  **(http://college.usatoday.com/2014/03/06/snapchat-opening-the-door-for-new-way-of-journalism/)Snapchat Opening Door for New Way of Journalism) USA Today. March 2014.
-
-
-
-  (http://www.current.org/2014/01/nprchives-project-brings-1984-back-in-style/)NPRchives Project Revisits Sounds of 1984 Current. January 2014.
-
-
-
-  **(http://www.geekadelphia.com/2012/11/07/geek-of-the-week-melody-kramer/)Geek of the Week: Melody Kramer) Corey Hulse. Geekadelphia. November 2012.
-
-
-
-  **(http://www.current.org/2012/04/meet-the-guru-behind-fresh-airs-web-success/)Meet the Guru Behind Fresh Air’s Web Success) Current.org. April 2012.
-
-
-
-  **(http://www.niemanlab.org/2012/04/meet-the-most-popular-woman-at-nprs-fresh-air-and-its-not-terry-gross/)Meet the Most Popular Woman at NPR’s Fresh Air (And It’s Not Terry Gross))” Andrew Phelps. Nieman Journalism Lab. April 2012.
-
-
-
-  **(http://www.nytimes.com/2007/10/14/fashion/14facebook.html?pagewanted=all&_r=0)73 and Loaded with Friends on Facebook) John Schwartz. The New York Times. October 2007.
+[73 and Loaded with Friends on Facebook](http://www.nytimes.com/2007/10/14/fashion/14facebook.html?pagewanted=all&_r=0). John Schwartz. The New York Times. October 2007.
 
 
  [1]: http://nerdettepodcast.com/post/110652298367/melody-kramers-open-source-life-singing-civil
