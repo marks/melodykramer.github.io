@@ -1,4 +1,4 @@
-I worked in a rare books library during college. People came into the library to pore over documents. Most of the time, they were writing a paper or an autobiography and needed primary documents to piece together someone's life. 
+I worked in a rare books library during college. People came into the library to pore over documents. Most of the time, they were writing a paper or an biography and needed primary documents to piece together someone's life. 
 
 How could we write one of those now, without relying on any correspondence whatsoever? How could you could track me for an entire day?
 
@@ -28,7 +28,22 @@ What am I missing?
 Subcribe to my [TinyLetter](http://www.tinyletter.com/melodykramer)
 
 **Update**
+
 * Matt Terenzio asks, "Were you playing a sport or on a merry-go-round?" ([Funf](http://www.funf.org/about.html))
 
 * Josh Tauberer says to call this a "Auto-meta(data)-graphy," which is a term I really like. 
+
+* Sue Diaz says "What were you wearing (tracking sensor data from wearables.) Did you check anything out of a library? (If we could access that data) Park in a parking garage? Feed a meter? Use satellite radio? (You were on metro today but if you drive)
+
+* Melanie Cooper writes, "How was my health? What was I eating? How much did I weigh? How well did I sleep? How active was I? data points:(myfitnesspal,Jawbone UP,FitBit,Endomondo, Period Calendar/Tracker app) 
+
+What was I watching? data points: (Netflix, Amazon Prime, Google Play, Hulu, YouTube, Redbox) 
+
+What was my mood? datapoints: (Period Calendar/Tracker app, Facebook emoticon, MoodPanda, weather app) 
+
+What was I listening to? datapoints: (pandora history, google music, spotify, itunes, youtube music) 
+
+What were my interests? datapoints: (google app reviews history, who you follow on social media, pinterest boards)  
+
+What were my accomplishments? (linkedin?)
  
