@@ -1,11 +1,17 @@
 ---
-title: Talks and Press
+title: Talks, Clips, and Press
 except: "Past and future talks by Melody Kramer"
 layout: page
 permalink: /talks/
 ---
 
-Slides (and recordings) from some of the talks I've given over the years. Have a suggestion? [I'd love to hear it](https://github.com/melodykramer/talks/issues).
+**Writer:**[How did KPCC get voters to care? They picked one and made him care.](http://www.poynter.org/news/media-innovation/324863/how-did-kpcc-get-voters-to-care-they-picked-one-and-made-him-care/) Poynter. March 2015.
+
+**Writer:** [Alex Duner has written a dozen interactive news apps. Up next? Graduating college.](http://www.poynter.org/news/media-innovation/323975/alex-duner-has-written-a-dozen-interactive-news-apps-up-next-graduating-college/) Poynter. March 2015.
+
+**Writer:** [How journalists are using Slack and Hangouts (instead of email) to stay connected](http://www.poynter.org/news/media-innovation/321799/how-journalists-are-using-slack-and-hangouts-instead-of-email-to-stay-connected/) Poynter. February 2015.
+
+**Writer:** [How Philly.com’s Erica Palan trains her coworkers to think about social](http://www.poynter.org/news/job-news/319747/how-philly-coms-erica-palan-trains-her-coworkers-to-think-about-social/) Poynter. Feburary 2015.
 
 
 **Writer:** [How PRI's David Beard Makes a Twitter Feed Worth Following](http://www.poynter.org/news/media-innovation/318369/melody-kramer-how-pris-david-beard-makes-a-twitter-feed-worth-following/) Poynter. February 2015.
@@ -108,6 +114,11 @@ Slides (and recordings) from some of the talks I've given over the years. Have a
 
 ###Selected Press
 
+[The Pub, Ep. 8: Public media’s true biases; reconsidering the membership model](http://www.current.org/2015/03/the-pub-ep-8-public-medias-true-biases-reconsidering-the-membership-model/) Current. March 2015.
+
+[Pacifica Stands in For All Public Radio](http://www.truth-out.org/speakout/item/29625-pacifica-stands-in-for-all-public-media) Truth Out. March 2015.
+
+[10 women paving the way in digital media and technology](https://www.journalism.co.uk/news/10-women-paving-the-way-in-digital-journalism-and-technology/s2/a564369/) Journalism.co.uk. March 2015.
 
 [Melody Kramer&#8217;s open source life][1]. Nerdette Podcast. February 2015.
 
