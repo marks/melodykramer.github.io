@@ -13,7 +13,7 @@ Jury duty is mandatory and I understand that some people just want to chill out.
 
 I'm sure there are other really good ideas that could help people while waiting. In fact, what if we shorten the timeframe?
 
-What could people do while waiting in a line? I often just look at Twitter, but I think I would be highly motivated if I need all of my little bits of line time helped out something in a larger way. But what?
+What could people do while waiting in a line? I often just look at Twitter, but I think I would be highly motivated if I knew all of my little bits of line time helped out something in a larger way. But what?
 
 I would love to hear your thoughts on this. Email them and I'll round them up and put them in a future newsletter. 
 
