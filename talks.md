@@ -5,6 +5,10 @@ layout: page
 permalink: /talks/
 ---
 
+**Writer:** [What Matthew Liddy learned in his first year running an interactive storytelling unit.](http://www.poynter.org/news/media-innovation/327049/what-matthew-liddy-learned-in-his-first-year-running-an-interactive-storytelling-unit/) Poynter. March 2015.
+
+**Co-writer:** [http://gizmodo.com/does-18f-pass-the-bechdel-test-for-tech-1692182855](Does 18F Pass the Bechdel Test for Tech?) Gizmodo. March 2015. 
+
 **Writer:** [How did KPCC get voters to care? They picked one and made him care.](http://www.poynter.org/news/media-innovation/324863/how-did-kpcc-get-voters-to-care-they-picked-one-and-made-him-care/) Poynter. March 2015.
 
 **Writer:** [Alex Duner has written a dozen interactive news apps. Up next? Graduating college.](http://www.poynter.org/news/media-innovation/323975/alex-duner-has-written-a-dozen-interactive-news-apps-up-next-graduating-college/) Poynter. March 2015.
@@ -60,7 +64,7 @@ permalink: /talks/
 **Writer/Editor:** [Social Media Desk Blog](http://socialmediadesk.tumblr.com/). Socialmediadesk.tumblr.com
 
 
-**Speaker:**[What Does It Mean To Be a Member of a Public Media Station?)](https://medium.com/@mkramer/what-does-it-mean-to-be-a-member-of-a-public-media-station-and-what-could-it-mean-59b0d3c90204) presented at Weapons of Mass Creation conference. Cleveland, OH. August 2014.
+**Speaker:** [What Does It Mean To Be a Member of a Public Media Station?)](https://medium.com/@mkramer/what-does-it-mean-to-be-a-member-of-a-public-media-station-and-what-could-it-mean-59b0d3c90204) presented at Weapons of Mass Creation conference. Cleveland, OH. August 2014.
 
 
 **Workshop Leader:** “Rethinking the Article Machine.” National Gay and Lesbian Journalism Conference. Chicago, IL. August 2014.
@@ -91,7 +95,7 @@ permalink: /talks/
 **Keynote Speaker:** [How To Be A Human Online](https://hackpad.com/Heres-Mels-talk-for-the-Social-Learning-Summit-at-American-University-vgIAgSngYEC) Social Learning Summit at American University. Washington DC. April 2014.
 
 
-**Speaker:** [How NPR Views Social ](https://hackpad.com/Mels-Talk-for-NPR-Foundation-Board-mZ9Zp24TTT9)NPR Foundation Board. Washington DC. April 2014.
+**Speaker:** [How NPR Views Social](https://hackpad.com/Mels-Talk-for-NPR-Foundation-Board-mZ9Zp24TTT9)NPR Foundation Board. Washington DC. April 2014.
 
 
 **Speaker:** “How I Think About The Internet.” University of Pennsylvania. Philadelphia, PA. February 2014.
@@ -106,13 +110,17 @@ permalink: /talks/
 **Invitee:** Spark Camp. July 2012.
 
 
-**Speaker:**(http://editorial.digitalservices.npr.org/post/fresh-airs-melody-kramer-social-media-dont-over-think-it-be-polite-and-have-fun-video)Fresh Air’s Social Media) NPR Digital Services Knight Foundation Training. Webinar. May 2012.
+**Speaker:** [http://editorial.digitalservices.npr.org/post/fresh-airs-melody-kramer-social-media-dont-over-think-it-be-polite-and-have-fun-video](Fresh Air’s Social Media) NPR Digital Services Knight Foundation Training. Webinar. May 2012.
 
 
 **Writer:** National Geographic Magazine (2007, 2009, 2014) Fresh Air with Terry Gross (2009-2011); Esquire Magazine (2004)
 
 
 ###Selected Press
+
+[What should digital news designed for the elderly look like? One starting point: NewsForBetty.com](http://www.niemanlab.org/2015/03/what-should-digital-news-designed-for-the-elderly-look-like-one-starting-point-newsforbetty-com/) Nieman Lab. March 2015.
+
+[There’s Now A Bechdel Test For The Tech World](http://thinkprogress.org/culture/2015/03/19/3635965/tech-version-bechdel-test-often-code-written-women/) Think Progress. March 2015.
 
 [The Pub, Ep. 8: Public media’s true biases; reconsidering the membership model](http://www.current.org/2015/03/the-pub-ep-8-public-medias-true-biases-reconsidering-the-membership-model/) Current. March 2015.
 
