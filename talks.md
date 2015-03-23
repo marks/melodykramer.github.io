@@ -58,7 +58,7 @@ permalink: /talks/
 **Student Mentor:** Online News Association. Chicago, IL. Sept. 2014.
 
 
-**Panelist: **(https://www.youtube.com/watch?v=cBjh25g4ZRM)How You Should Think About Analytics in Your Newsroom) Online News Association. Chicago, IL. Sept. 2014.
+**Panelist: **[https://www.youtube.com/watch?v=cBjh25g4ZRM](How You Should Think About Analytics in Your Newsroom) Online News Association. Chicago, IL. Sept. 2014.
 
 
 **Writer/Editor:** [Social Media Desk Blog](http://socialmediadesk.tumblr.com/). Socialmediadesk.tumblr.com
