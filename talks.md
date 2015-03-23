@@ -110,7 +110,7 @@ permalink: /talks/
 **Invitee:** Spark Camp. July 2012.
 
 
-**Speaker:** [http://editorial.digitalservices.npr.org/post/fresh-airs-melody-kramer-social-media-dont-over-think-it-be-polite-and-have-fun-video](Fresh Air’s Social Media) NPR Digital Services Knight Foundation Training. Webinar. May 2012.
+**Speaker:** [http://editorial.digitalservices.npr.org/post/fresh-airs-melody-kramer-social-media-dont-over-think-it-be-polite-and-have-fun-video](Fresh Air's Social Media) NPR Digital Services Knight Foundation Training. Webinar. May 2012.
 
 
 **Writer:** National Geographic Magazine (2007, 2009, 2014) Fresh Air with Terry Gross (2009-2011); Esquire Magazine (2004)
