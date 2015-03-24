@@ -43,7 +43,9 @@ What was my mood? datapoints: (Period Calendar/Tracker app, Facebook emoticon, M
 
 What was I listening to? datapoints: (pandora history, google music, spotify, itunes, youtube music) 
 
-What were my interests? datapoints: (google app reviews history, who you follow on social media, pinterest boards)  
+What were my interests? datapoints: (google app reviews history, who you follow on social media, pinterest boards) 
 
 What were my accomplishments? (linkedin?)
+
+* Abbott Katz says "purchase receipts, which, unlike credit card entries, are time-stamped, sometimes to the second."
  
