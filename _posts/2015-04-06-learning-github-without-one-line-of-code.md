@@ -32,4 +32,6 @@ Have a good one,
 
 Mel
 
-PS: Added bonus: a good first step in getting everyone in public media comfortable with git so stations can then invite communities into contribute on projects (aka my [Nieman project](http://melodykramer.github.io/2015/02/25/nieman-thoughts/)). 
+PS: Added bonus: a good first step in getting everyone in public media comfortable with git so stations can then invite communities into contribute on projects (aka my [Nieman project](http://melodykramer.github.io/2015/02/25/nieman-thoughts/)).
+
+this was originally a newsletter: www.tinyletter.com/melodykramer
