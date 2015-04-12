@@ -4,11 +4,11 @@ How could we write one of those now, without relying on any correspondence whats
 
 Let's start with the easiest and work our way up.
 
-1. Where have I been? (Google Location History) (Instagram Location Endpoint) (Foursquare Location Endpoint) (WAZE) (Photos from the Department of Homeland Security) (E-Z Pass Data) 
+1. Where have I been? (Google Location History) (Instagram Location Endpoint) (Foursquare Location Endpoint) (WAZE) (Photos from the Department of Homeland Security) (E-Z Pass Data) (Uber) (Car2Go/ZipCar) (bike-sharing)
 
-2. What was I reading? (Pocket history) (Chrome history) (Instapaper history) (Kindle history)
+2. What was I reading? (Pocket history) (Chrome history) (Instapaper history) (Kindle history: did you stop reading [ie stop turning pages] at certain parts, highlight passages) 
 
-3. What event(s) did I attend? (Eventbrite history) (Ticketmaster database)
+3. What event(s) did I attend? (Eventbrite history) (Ticketmaster database) (FB events)
 
 4. What were my thoughts on X? (social media)
 
@@ -37,7 +37,7 @@ Subcribe to my [TinyLetter](http://www.tinyletter.com/melodykramer)
 
 * Melanie Cooper writes, "How was my health? What was I eating? How much did I weigh? How well did I sleep? How active was I? data points:(myfitnesspal,Jawbone UP,FitBit,Endomondo, Period Calendar/Tracker app) 
 
-What was I watching? data points: (Netflix, Amazon Prime, Google Play, Hulu, YouTube, Redbox) 
+What was I watching? data points: (Netflix, Amazon Prime, Google Play, Hulu, YouTube, Redbox. Similar to Kindle, did you pause, rewind, or stop watching at certain points) 
 
 What was my mood? datapoints: (Period Calendar/Tracker app, Facebook emoticon, MoodPanda, weather app) 
 
