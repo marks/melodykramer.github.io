@@ -7,7 +7,7 @@ permalink: /talks/
 
 **Writer:** [What Matthew Liddy learned in his first year running an interactive storytelling unit.](http://www.poynter.org/news/media-innovation/327049/what-matthew-liddy-learned-in-his-first-year-running-an-interactive-storytelling-unit/) Poynter. March 2015.
 
-**Co-writer:** [http://gizmodo.com/does-18f-pass-the-bechdel-test-for-tech-1692182855](Does 18F Pass the Bechdel Test for Tech?) Gizmodo. March 2015. 
+**Co-writer:** [Does 18F Pass the Bechdel Test for Tech?](http://gizmodo.com/does-18f-pass-the-bechdel-test-for-tech-1692182855) Gizmodo. March 2015. 
 
 **Writer:** [How did KPCC get voters to care? They picked one and made him care.](http://www.poynter.org/news/media-innovation/324863/how-did-kpcc-get-voters-to-care-they-picked-one-and-made-him-care/) Poynter. March 2015.
 
