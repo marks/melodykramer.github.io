@@ -10,7 +10,7 @@ categories:
   - public media
 ---
 
-1. In this essay, I am going to write why I believe public media stations and entities should make their software open source and some of their content available under a Creative Commons license. This essay will be broken into three sections: first, explaining what public media's mission is, second, explaining why creating open source products and creative commons content are part of the key to fulfilling this mission, and third, how this strengthens us as a network and as a type of media.
+1. In this essay, I explain why I believe public media stations and entities should make their software open source and some of their content available under a Creative Commons license. This essay will be broken into three sections: first, explaining what public media's mission is, second, explaining why creating open source products and creative commons content are part of the key to fulfilling this mission, and third, how this strengthens us as a network and as a type of media.
 
 <blockquote class="twitter-tweet" lang="en"><p>idea: public media should make all of its stuff public - code, research, etc.</p>&mdash; Melody Joy Kramer (@mkramer) <a href="https://twitter.com/mkramer/status/586220651398172672">April 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
