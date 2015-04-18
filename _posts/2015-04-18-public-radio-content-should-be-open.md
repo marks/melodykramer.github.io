@@ -10,7 +10,7 @@ categories:
   - public media
 ---
 
-1. In this essay, I am going to write why I believe public media stations and entities should make their software open source and some of their content available under a Creative Commons license. This essay will be broken into three sections: first, explaining what public media's mission is, second, explaining why creating open source products and creative commons content are part of the key to fulfilling this mission, and third, how this strengthens us as a network.
+1. In this essay, I am going to write why I believe public media stations and entities should make their software open source and some of their content available under a Creative Commons license. This essay will be broken into three sections: first, explaining what public media's mission is, second, explaining why creating open source products and creative commons content are part of the key to fulfilling this mission, and third, how this strengthens us as a network and as a type of media.
 
 <blockquote class="twitter-tweet" lang="en"><p>idea: public media should make all of its stuff public - code, research, etc.</p>&mdash; Melody Joy Kramer (@mkramer) <a href="https://twitter.com/mkramer/status/586220651398172672">April 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -20,6 +20,10 @@ categories:
 2. From [NPR's original mission statement](http://current.org/2012/05/national-public-radio-purposes/): "The total service should be trustworthy, enhance intellectual development, expand knowledge, deepen aural esthetic enjoyment, increase the pleasure of living in a pluralistic society and result in a service to listeners which makes them more responsive, informed human beings and intelligent responsible citizens of their communities and the world....National Public Radio *will not regard its audience as a "market" or in terms of its disposable income, but as curious, complex individuals who are looking for some understanding, meaning and joy in the human experience.*"
 
 3. From [a 2012 speech](http://current.org/2012/06/14260/) by Jay Allison: "For many of us, for some important core of us, public radio is a calling. *We believe in a civic responsibility and in civil behavior.* That’s a precious combination, because it’s increasingly rare. Our listeners know this about us. It’s why they trust us. And it’s why people want to join our cause — as supporters and participants...We should seek out our likely collaborators. Build partnerships with other groups who have kinship with us: arts groups, civic organizations, schools, museums, social services, all the nonprofits involved in making our places better. *We can act as a key connector in community*."
+
+
+
+*Why creating open source products and creative commons content are part of the key to fulfilling this mission*
 
 2. Open source software is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
 
