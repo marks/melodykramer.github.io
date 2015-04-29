@@ -8,33 +8,33 @@ What new units of time have you discovered recently?
 
 (This was originally sent to people who get my newsletter, which is sent sporadically and is very, very short. [Want to subscribe?](http://www.tinyletter.com/melodykramer))
 
-** More Units of Time **
+**More Units of Time**
 
-From ** Michael **: "Laundry (putting in washer and later folding) takes me one episode of Congressional Dish (less than an hour, not counting pledge drives)!"
+From **Michael**: "Laundry (putting in washer and later folding) takes me one episode of Congressional Dish (less than an hour, not counting pledge drives)!"
 
-From ** Aofunne **: "My walk to work is 4 songs long. My download of Game of thrones is one Silicon Valley episode long."
+From **Aofunne**: "My walk to work is 4 songs long. My download of Game of thrones is one Silicon Valley episode long."
 
-From ** Matthew **: "Doing the dishes takes one "This American Life" act."
+From **Matthew**: "Doing the dishes takes one "This American Life" act."
 
-From ** Rhonda **: "I can listen to almost 2 songs while "running" half a mile on the elliptical at the gym. I tell myself, just one more song and you're done! It helps ease the torture."
+From **Rhonda**: "I can listen to almost 2 songs while "running" half a mile on the elliptical at the gym. I tell myself, just one more song and you're done! It helps ease the torture."
 
-From ** Donna **: "A friend of mine's parents used to measure things in terms of "Fraggle Rocks" (25 minutes).  "You need to work on your book report for 2 more Fraggle Rocks before you can play those video games"."
+From **Donna**: "A friend of mine's parents used to measure things in terms of "Fraggle Rocks" (25 minutes).  "You need to work on your book report for 2 more Fraggle Rocks before you can play those video games"."
 
-From ** TJ **: "A busy work day is half a podcast.  A regular workday is 2.  A day exploring the Smithsonian is 4 or 5."
+From **TJ**: "A busy work day is half a podcast.  A regular workday is 2.  A day exploring the Smithsonian is 4 or 5."
 
-From ** Amy **: "My commute to/from work is one podcast plus time to digest it."
+From **Amy**: "My commute to/from work is one podcast plus time to digest it."
 
-From ** Benjamin **: "My commute to work is about two and a half Game of Thrones chapters long. Or one Wait Wait Don't Tell Me. Or nearly two Reply All episodes. What I'm saying is my commute is looooong."
+From **Benjamin**: "My commute to work is about two and a half Game of Thrones chapters long. Or one Wait Wait Don't Tell Me. Or nearly two Reply All episodes. What I'm saying is my commute is looooong."
 
-From ** Freek **: "my bike ride from my home in rotterdam to the train station is exactly one edm song long."
+From **Freek**: "my bike ride from my home in rotterdam to the train station is exactly one edm song long."
 
-From ** Ian **: "The time it takes to unload the dishwasher is almost exactly the length of one NPR Morning Edition News Bulletin. I use the NPR One iOS app to play it on demand."
+From **Ian**: "The time it takes to unload the dishwasher is almost exactly the length of one NPR Morning Edition News Bulletin. I use the NPR One iOS app to play it on demand."
 
-From ** Alex **: "My Saturday morning runs are three Fresh Air podcasts at 1.5 speed."
+From **Alex**: "My Saturday morning runs are three Fresh Air podcasts at 1.5 speed."
 
-From ** Angela **: "I always tell people my house is a three-song walk away from Lake Michigan. (Unless one song is Jungleland. Then it would be two songs.)"
+From **Angela**: "I always tell people my house is a three-song walk away from Lake Michigan. (Unless one song is Jungleland. Then it would be two songs.)"
 
-From ** Sebastian **: "My commute to my job is exactly a chapter of Radio Ambulante´s podcast. It´s like it has been made for montevidean drivers who drive from my neighbourhood to the job."
+From **Sebastian**: "My commute to my job is exactly a chapter of Radio Ambulante´s podcast. It´s like it has been made for montevidean drivers who drive from my neighbourhood to the job."
 
 From ** Ruthann**: "I still remember a roommate in the 1970s who measured distance in terms of units of beer.
 "That sales call is a six-pack away."
