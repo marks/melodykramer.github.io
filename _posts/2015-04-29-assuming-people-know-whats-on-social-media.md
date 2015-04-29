@@ -15,6 +15,7 @@ I think I get little rushes when I get a favorite or retweet. This doesn't mean 
 
 This is dumb. So I'm going to actively change it.
 
-I'm going to consicously start to write long again. I miss writing long. I miss thinking through an idea and turning it over in my mind before putting it out into the world for feedback. I'm going to distance myself from the need for constant gratification, which I think I'm addicted to, and work on shaping ideas and writing emails and writing for myself - and not necessarily for an audience.
+I'm going to consicously start to write long again. I miss writing long. I miss thinking through an idea and turning it over in my mind before putting it out into the world for feedback. I'm going to distance myself from the need for constant gratification and validation, which I think I'm addicted to, and work on shaping ideas and writing because I actively enjoy writing - and not necessarily thinking of everything in terms of an audience.
+
 
 
