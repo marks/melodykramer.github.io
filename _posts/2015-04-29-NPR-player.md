@@ -1,6 +1,6 @@
-I was really happy to see that NPR launched a [new audio player](http://www.npr.org/blogs/thisisnpr/2015/04/29/401552958/there-are-now-800-000-reasons-to-share-npr-audio-on-your-site) today.
+I was really happy to see that NPR launched a [new audio player](http://www.npr.org/blogs/thisisnpr/2015/04/29/401552958/there-are-now-800-000-reasons-to-share-npr-audio-on-your-site) today. It's smart and it immediately makes the audio more sharable.
 
-One question: 
+One question:
 
 If a piece is published from an acquired show or station, will the data collected from the player be shared? 
 
