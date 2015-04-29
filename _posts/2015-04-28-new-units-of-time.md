@@ -8,6 +8,8 @@ What new units of time have you discovered recently?
 
 (This was originally sent to people who get my newsletter, which is sent sporadically and is very, very short. [Want to subscribe?](http://www.tinyletter.com/melodykramer))
 
+Something interesting: many people think in terms of podcasts as a unit of time. (How could we surface audio by length of time?)
+
 **More Units of Time**
 
 From **Michael**: "Laundry (putting in washer and later folding) takes me one episode of Congressional Dish (less than an hour, not counting pledge drives)!"
