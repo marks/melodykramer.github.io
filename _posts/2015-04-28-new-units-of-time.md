@@ -29,14 +29,14 @@ From **Benjamin**: "My commute to work is about two and a half Game of Thrones c
 From **Freek**: "my bike ride from my home in rotterdam to the train station is exactly one edm song long."
 
 From **Ian**: "The time it takes to unload the dishwasher is almost exactly the length of one NPR Morning Edition News Bulletin. I use the NPR One iOS app to play it on demand."
-
+r
 From **Alex**: "My Saturday morning runs are three Fresh Air podcasts at 1.5 speed."
 
 From **Angela**: "I always tell people my house is a three-song walk away from Lake Michigan. (Unless one song is Jungleland. Then it would be two songs.)"
 
 From **Sebastian**: "My commute to my job is exactly a chapter of Radio Ambulante´s podcast. It´s like it has been made for montevidean drivers who drive from my neighbourhood to the job."
 
-From ** Ruthann**: "I still remember a roommate in the 1970s who measured distance in terms of units of beer.
+From **Ruthann**: "I still remember a roommate in the 1970s who measured distance in terms of units of beer.
 "That sales call is a six-pack away."
 
 From anonymous: "my commute is one "agonizing inner debate about whether i'm taking the job offer i got"
