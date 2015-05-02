@@ -57,7 +57,9 @@ At the end of every two week period, I will summarize and publish everything we 
 ## Okay, that all sounds nice, Mel - but what do YOU hope to get out of this?
 
 1) I want to help build something that helps public media. I think it's a vitally important resource that we have in the United States and I deeply believe in the mission.
+
 2) I love building projects in public like this. So I'm hoping this is successful. But if it's not - you'll know - and we'll learn something too.
+
 3) I hope this project continues beyond the fellowship. Documenting and documenting well will be key in moving it forward.
 
 ## Are you getting any money out of this?
@@ -69,21 +71,34 @@ Nope. I get a tiny fellowship stipend, which is less than my salary - and I took
 A lot. I'm calling this the Media Public Planning Sprint. We will:
 
 1) Articulate what the project is, what the goals are, how it will be structured.
+
 2) Write up everything I've learned so far and everything we've read / all of the research that might be helpful.
+
 3) Make list of people to talk to 
+
 	3a) Answer all of the email related to this project
+	
 4) Make list of case studies to develop from other industries (libraries, universities, museums, beverage conglomerates)
+
 5) Determine whether a playbook is meaningful, and if so, what it should contain
+
 6) Exercise every day to stay sane. 
+
 7) Do user research with 6 stations (2 large, 2 medium, 2 small) on membership and resource allocation
+
 8) Investigate whether forking something like [Govcode](https://www.govcode.org/) would be meaningful
+
 9) Investigate whether forking something like [Midas](https://github.com/18F/midas) would be meaningful
+
 
 ## How can I give you feedback on this? 
 
 1) If you're familiar with GitHub, fork this page and add your thoughts.
+
 2) Tweet at me. I'm @mkramer
+
 3) Email me. I'm melodykramer@gmail.com
+
 4) Come to my twice weekly open office hours. TBD, but likely a Google Hangout.
 
 ## El fin
