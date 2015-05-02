@@ -95,7 +95,7 @@ A lot. I'm calling this the Media Public Planning Sprint. We will:
 
 1) If you're familiar with GitHub, fork this page and add your thoughts.
 
-2) Tweet at me. I'm @mkramer
+2) Tweet at me. I'm [@mkramer](https://twitter.com/mkramer).
 
 3) Email me. I'm melodykramer@gmail.com
 
