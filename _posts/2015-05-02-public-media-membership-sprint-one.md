@@ -10,6 +10,8 @@ categories:
   - public media
 ---
 
+### The Media Public: Mel's Nieman Fellowship Sprint One
+
 ## The Backstory
 
 Last August, I gave a speech about public media membership. If you want to read the entire speech, [it's here](https://medium.com/@mkramer/what-does-it-mean-to-be-a-member-of-a-public-media-station-and-what-could-it-mean-59b0d3c90204) or you can watch the [five minute ignite version here](www.youtube.com/watch?v=gZVI18RLbyk), but the thesis was this:
