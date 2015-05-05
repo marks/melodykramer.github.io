@@ -19,7 +19,7 @@ Tomorrow:
 
 1. Attending Code for Boston meetup at MIT 
 
-2. Meeting Berkman Center research who studies how and when people decide to become civicly motivated
+2. Meeting Berkman Center researcher who studies how and when people decide to become civicly motivated
 
 3. Chatting with woman who founded community based project in Africa that helps connect people with information
 
