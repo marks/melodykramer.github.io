@@ -14,7 +14,7 @@ categories:
 
 ## The Backstory
 
-Last August, I gave a speech about public media membership. If you want to read the entire speech, [it's here](https://medium.com/@mkramer/what-does-it-mean-to-be-a-member-of-a-public-media-station-and-what-could-it-mean-59b0d3c90204) or you can watch the [five minute ignite version here](www.youtube.com/watch?v=gZVI18RLbyk), but the thesis was this:
+Last August, I gave a speech about public media membership. If you want to read the entire speech, [it's here](https://medium.com/@mkramer/what-does-it-mean-to-be-a-member-of-a-public-media-station-and-what-could-it-mean-59b0d3c90204) or you can watch the [five minute ignite version here](https://youtu.be/gZVI18RLbyk), but the thesis was this:
 
 >What does it mean to be a member of a public radio station in the United States? What could it mean? How could expanding the definition of membership instill a sense of ownership and identity among listeners, allowing them to feel more connected and invested in public media's content, work and mission?
 
@@ -74,11 +74,11 @@ A lot. I'm calling this the Media Public Planning Sprint. We will:
 
 2) Write up everything I've learned so far and everything we've read / all of the research that might be helpful.
 
-3) Make list of people to talk to 
+3) Make a list of people to talk to 
 
 	3a) Answer all of the email related to this project
 	
-4) Make list of case studies to develop from other industries (libraries, universities, museums, beverage conglomerates)
+4) Make a list of case studies to develop from other industries (libraries, universities, museums, beverage conglomerates)
 
 5) Determine whether a playbook is meaningful, and if so, what it should contain
 
