@@ -9,7 +9,7 @@ categories:
 
 I've realized I've been doing something that I really don't like: I assume people know what I'm thinking about something, because I've tweeted it.
 
-Now this is just straight up ridiculous. Not everyone consumes all of Twitter, let along my tweets. Heck, not everyone is on Twitter. Most people aren't on Twitter. Most people never see Tweets. 
+Now this is just straight up ridiculous. Not everyone consumes all of Twitter, let alone my tweets. Heck, not everyone is on Twitter. Most people aren't on Twitter. Most people never see Tweets. 
 
 I think I get little rushes when I get a favorite or retweet. This doesn't mean the idea is popular or validated, even though I think my dopamine receptors treat it as such. 
 
