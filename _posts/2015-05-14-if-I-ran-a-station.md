@@ -32,9 +32,9 @@ I'd set the station up as a faciliator rather than a disseminator. We would:
 
 15. Open source everything. Cheaper and transparent, and allows community to have input in what is build. Have software as a service set up, to build/consult for other stations.
 
-16. Have slack instead of email. 
+16. Have slack instead of email. Email sucks and wastes time and makes people feel overwhelmed. 
 
-17. Not separate departments physically in buildings. Pick two names of coworkers out of a hat every month - have them have lunch.
+17. Not separate departments physically in buildings. This is weird and means people don't share ideas or information. Pick two names of coworkers out of a hat every month - have them have lunch.
 
 18. Invite people to the station to record podcasts in an empty studio. 
 
