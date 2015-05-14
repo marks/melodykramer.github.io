@@ -31,3 +31,11 @@ I'd set the station up as a faciliator rather than a disseminator. We would:
 14. Build a network of block captains to share hyperlocal news.
 
 15. Open source everything. Cheaper and transparent, and allows community to have input in what is build. Have software as a service set up, to build/consult for other stations.
+
+16. Have slack instead of email. 
+
+17. Not separate departments physically in buildings. Pick two names of coworkers out of a hat every month - have them have lunch.
+
+18. Invite people to the station to record podcasts in an empty studio. 
+
+19. Invite people from community to station once a month to preview new stuff, give feedback. Maybe the station is a food truck.
