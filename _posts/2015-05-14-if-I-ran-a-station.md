@@ -1,8 +1,8 @@
-Someone asked what my ideal public radio station would look like, if I could start one today from scratch. Here it is:
+Someone asked what my ideal public radio station would look like, if I could start one today from scratch. Cool thought puzzle! Here it is:
 
 I'd set the station up as a faciliator rather than a disseminator. We would:
 
-1. run training classes in communities - at local libraries and community centers and in schools - teaching people how to collect audio from their communities and then hire producers at the station edit the tape and help shape them for air.
+1. run training classes in communities - at local libraries and community centers and in schools - teaching people how to collect audio from their communities and then hire producers at the station edit the tape and help shape them for air. See reporters and producers as facilitators: not a one-way street of disseminating information, but working with the community to unearth a) what stories are important b) the best way to tell them and c) the best ways to share them. The medium is not the message here - sometimes it's radio, sometimes it's paper, sometimes it's a podcast, sometimes it's the web - sometimes it's all of the above.
 
 2. personalize every complex story we could. KPCC did this recently with their local [municipal primary election coverage](http://www.poynter.org/news/media-innovation/324863/how-did-kpcc-get-voters-to-care-they-picked-one-and-made-him-care/).
 
