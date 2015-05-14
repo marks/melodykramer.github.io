@@ -28,7 +28,7 @@ I'd set the station up as a faciliator rather than a disseminator. We would:
 
 13. Build the public media equivilent of 311. Call a line. Ask a news question. We dig up the answer. Maybe we air it. And we air it in every possible way.
 
-14. Build a network of block captains to share hyperlocal news.
+14. Build a network of block captains to share hyperlocal news. Make them members.
 
 15. Open source everything. Cheaper and transparent, and allows community to have input in what is build. Have software as a service set up, to build/consult for other stations.
 
