@@ -1,4 +1,4 @@
-Someone asked what my ideal public radio station would look like. Here it is:
+Someone asked what my ideal public radio station would look like, if I could start one today from scratch. Here it is:
 
 I'd set the station up as a faciliator rather than a disseminator. We would:
 
