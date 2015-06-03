@@ -2,7 +2,7 @@ Two people recently asked me why we have local public radio stations. They saw t
 
 This surprised me.
 
-So I posed [the question]((http://melodykramer.github.io/2015/05/20/whats-the-point-of-local) to my newsletter and also asked on Twitter. I got some very [smart responses](https://twitter.com/inadarei/status/601808999533682688?lang=en) [in return](https://twitter.com/inadarei/status/601809446852030464). The newsletter answers are below and I recommend you read all of them. (Most of the people responding don't work in news.)
+So I posed [the question](http://melodykramer.github.io/2015/05/20/whats-the-point-of-local) to my newsletter and also asked on Twitter. I got some very [smart responses](https://twitter.com/inadarei/status/601808999533682688?lang=en) [in return](https://twitter.com/inadarei/status/601809446852030464). The newsletter answers are below and I recommend you read all of them. (Most of the people responding don't work in news.)
 
 Some people had a very idealistic view of what local news is or could be. Others knew local was important, but couldn't articulate why exactly.
 
