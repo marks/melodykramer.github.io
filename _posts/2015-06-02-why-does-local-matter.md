@@ -1,4 +1,4 @@
-This was originally sent to my newsletter. Want to subscribe? [S'easy.](www.tinyletter.com/melodykramer)
+This was originally sent to my newsletter. Want to subscribe? [S'easy.](http://www.tinyletter.com/melodykramer)
 
 
 Two people recently asked me why we have local public radio stations. They saw the need for public media; they didn't necessarily see the need for local stations. (One of these people even works in public media.)
