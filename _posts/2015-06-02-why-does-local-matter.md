@@ -1,3 +1,6 @@
+This was originally sent to my newsletter. Want to subscribe? [S'easy.](www.tinyletter.com/melodykramer)
+
+
 Two people recently asked me why we have local public radio stations. They saw the need for public media; they didn't necessarily see the need for local stations. (One of these people even works in public media.)
 
 This surprised me.
@@ -10,7 +13,7 @@ This was also surprising to me.
 
 News people are in the business of telling stories. They do it really well. But they're not as good as explaining why the stories they tell are the right stories to tell - or why they matter after they tell them. I almost want newsrooms to hire a meta-editor, to cover the way the stories they tell resonate or impact communities after they're published.
 
-I want local news to let people into the process of telling stories. Domino's Pizza lets you [track what stage your pizza delivery's in](https://twitter.com/mkramer/status/598227287360704512) - why can't we do this for news.
+I want local news to let people into the process of telling stories. Domino's Pizza lets you [track what stage your pizza delivery's in](https://twitter.com/mkramer/status/598227287360704512) - why can't we do this for news?
 
 Imagine a dashboard for a local newsroom. We're brainstorming these six stories; here's how you can help. We're currently reporting on nine stories - looking for people to talk with who we might not know. We're about to publish two, and would love to know if there are any questions you have. And we're asking for your own feedback on three. This is audience-centered journalism. This isn't just saying, "We have an audience after we publish." It's articulating the value of the audience throughout the publishing process. Imagine how much more invested the audience would be. Imagine the value they'd be able to articulate.
 
