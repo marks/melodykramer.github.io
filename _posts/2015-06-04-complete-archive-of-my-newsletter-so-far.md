@@ -4,7 +4,7 @@ People have asked to see all of the archives for this newsletter. If you like th
 So I [publish them all here](http://melodykramer.github.io/), but here's a master list:
 
 
-1.  [Why Does Local News Matter](http://melodykramer.github.io/contact/)? (Part One:  [The ask](http://melodykramer.github.io/2015/05/20/whats-the-point-of-local/).)
+1.  [Why Does Local News Matter](http://melodykramer.github.io/2015/06/02/why-does-local-matter/)? (Part One:  [The ask](http://melodykramer.github.io/2015/05/20/whats-the-point-of-local/).)
 
 
 2.  [How 36 Smart People Avoid Work Burnout](http://melodykramer.github.io/2015/05/18/36-people-explain-how-they-avoid-work-burnout/)
