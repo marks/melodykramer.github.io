@@ -20,6 +20,8 @@ And if English isn't your first language or you want to share this with someone 
 
 PS: I talk about this kind of stuff all of the time on twitter (@mkramer) and my newsletter [www.tinyletter.com/melodykramer](www.tinyletter.com/melodykramer)
 
+PPS: I'm working on a Knight Prototype Project right now called [Media Public](http://mediapublic.github.io/) and the entire process is public and you can sign up for updates if you're interested in a) participatng or b) learning more.   
+
 
 Kickstarter
 
