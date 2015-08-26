@@ -2,7 +2,7 @@
 
 Hi everyone, thanks for coming and a particular thanks to Hal and Jeff for inviting me, and to Sarah for organizing this panel.
 
-Before I introduce you to the panel, I'm going to start off talking for no more than 3 minutes about the research I conducted at Harvard this past spring. If that seems short, no worries - there's an [Ignite version](https://www.youtube.com/watch?v=gZVI18RLbyk) online and an [hour-long speech version](https://www.youtube.com/watch?v=CAmNK85s2l4) online and a [72 page report](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/).
+Before I introduce you to the panel, I'm going to start off talking for no more than 3 minutes about the research I conducted at Harvard this past spring. If that seems short, no worries - there's an [Ignite version](https://www.youtube.com/watch?v=gZVI18RLbyk) online and an [hour-long speech version](https://www.youtube.com/watch?v=CAmNK85s2l4) online and a [72 page report](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/). (If you're pressed for time, read the executive summary and the key takeaways.) 
 
 The 72 page report was written during my recent Visiting Nieman Fellowship up at Harvard, where I basically examined what membership could look like in public media if there were models other than monetary ones: i.e. could people become members of a local station by donating time, code, or a skill? I wanted to know: What would that look like for the person? What would like that look like for the station? And would stations be strengthened if they start to value (and articulate) these other contributions — which may or may not lead to financial donations? 
 
