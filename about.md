@@ -23,7 +23,7 @@ Mel is also a frequent guest lecturer and speaker on topics related to social 
 
 She writes frequently about digital innovation for a variety of publications. At various points, she has had the #1 article on Medium, the #1 article on Hacker News and one of the [top Storifies](https://storify.com/mkramer/how-twitter-tracked-down-the-suspects-from-a-ppd-v) of 2014. 
 
-Outside of work, Mel plays with her dog Sadie, reads quietly next to her partner A &#8212; who is not on any social media whatsoever &#8212; and tweets [@mkramer][8].
+Outside of work, Mel plays with her dog Sadie, reads quietly next to her wife A &#8212; who is not on any social media whatsoever &#8212; and tweets [@mkramer][8].
 
 **Awards**
 
