@@ -13,17 +13,17 @@ I can't tell you how much I've enjoyed reading all of the responses, both to the
 
 The best thing I made this year was probably this newsletter (and the decision to move to a very, very small town in NC.) I really enjoyed reading your responses and hope you do too. Have a wonderful end of 2015!  
 
-- Mel  
+Mel  
 
 **PS:** If you like this, please feel free to pass [the newsletter](http://www.tinyletter.com/melodykramer) along to a friend. Or you can send them the link to the web version.  
 **PPS:** Why don't news organizations do something like this with their audiences? (Feel free to borrow this idea. That's the entire point of this newsletter.)  
 **PPPS:** Any typos/errant links are my fault and I apologize for them. I handcoded this. (If you know of a better way to do this, please let me know. Gmail is encoded in a weird format, so it's not possible to cut and paste.)  
 
-<center>
+
 
 # "What is the best thing you made this year?"
 
-</center>
+
 
 ## 5-year plan
 
