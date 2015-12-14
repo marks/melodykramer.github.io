@@ -89,7 +89,9 @@ That's why my bedroom is the best thing I made all year."
 
 **Maria** writes, "I've been working for 20 years. This past July I left my job with the notion of working for myself. That's what I've been doing since. It's all things one can imagine and more. Challenging, scary, and thrilling. But so right in so many ways. I gather inspiration from lots of places and folks. And I have to say you are not a small measure of that inspiration. Here's to a great new year for everyone."  
 
-**Caitie** writes "I left my job as a Senior Foreign Policy Advisor in Congress to make [The Lightning Notes](http://thelightningnotes.com/about/), a short daily post to help us move the world forward. It features [great ideas](http://thelightningnotes.com/2015/08/04/how-to-overwhelm-the-world/) and [striking stories](http://thelightningnotes.com/2015/10/19/the-antidote-to-shame/) to remind us that we matter and improving the world is our matter."  
+**Caitie** writes "I left my job as a Senior Foreign Policy Advisor in Congress to make [The Lightning Notes](http://thelightningnotes.com/about/), a short daily post to help us move the world forward. It features [great ideas](http://thelightningnotes.com/2015/08/04/how-to-overwhelm-the-world/) and [striking stories](http://thelightningnotes.com/2015/10/19/the-antidote-to-shame/) to remind us that we matter and improving the world is our matter."
+
+**Will** writes I left Wisconsin, collected some furniture, and moved to DC to start at a dream job working alongside Mel and many other wonderful people. The best part about this move was that I was able to help create my own task list by noticing what needed to be done and doing it. It's been everything I hoped, and so much more.
 
 ## Charts
 
