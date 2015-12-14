@@ -31,7 +31,7 @@ Mel
 
 ## About section for Stamp-Related Website
 
-**David** writes "I contribute webmastering and write some content for a non-profit environmental conservation organization. The web site has been running for a couple of years, but it seemed to me that we were missing a one-page explanation of what the group was all about, with an elevator pitch for a lede. So I wrote [Stamp Basics.](http://www.friendsofthestamp.org/learn/stamp-basics/)"  
+**David** writes, "I contribute webmastering and write some content for a non-profit environmental conservation organization. The web site has been running for a couple of years, but it seemed to me that we were missing a one-page explanation of what the group was all about, with an elevator pitch for a lede. So I wrote [Stamp Basics.](http://www.friendsofthestamp.org/learn/stamp-basics/)"  
 
 ## Apps
 
@@ -41,7 +41,7 @@ Mel
 
 **Maria** nominates [this story about a gun with an attached red laser](http://s3.amazonaws.com/uploads.knightlab.com/storymapjs/75f7d49adcc7fc9f8576c585174ec8c8/a-9mm-glocks-travels-in-providence/index.html), which was produced by her colleagues. "We thought this story map was the right way to tell this story," she says. She also sends along [this Storify](https://storify.com/mariacap/on-twitter-strong-reaction-to-raceinri-interviews-). "This was a powerful moment for our 2015 public-service project team."  
 
-**Rob** writes "I helped put together [the Web presentation of this story](http://cloud.registerguard.com/brian-babbs-final-hour/) and I'm pretty proud of my coworkers' reporting and the final product. The story deconstructs the confusing police response to a veteran struggling with PTSD. We tried to build a narrative around the text while using 911 audio, police statements and the dash cam footage of an armored vehicle, as well as interviews with others, to assist the reader in understanding what actually happened."  
+**Rob** writes, "I helped put together [the Web presentation of this story](http://cloud.registerguard.com/brian-babbs-final-hour/) and I'm pretty proud of my coworkers' reporting and the final product. The story deconstructs the confusing police response to a veteran struggling with PTSD. We tried to build a narrative around the text while using 911 audio, police statements and the dash cam footage of an armored vehicle, as well as interviews with others, to assist the reader in understanding what actually happened."  
 
 **Peter** made an [audio search engine](http://audiosear.ch) with his coworkers.  
 
@@ -128,7 +128,7 @@ Family = 3."
 
 ## Computer Science Video
 
-**Jared** writes "the best thing I made this year is a series of surreal, yet educational, videos covering the basics of computer science. It's a collaborative project with my younger brother, JR. Here's a link to the first video, [What is Computer Science?"](https://youtu.be/bJKltx0MFmI) But my absolute favorite in the series is ["Powers of 2"](https://youtu.be/_fSrOYzClL0), in which we constructed Daft Punk-inspired Arduino-powered robot puppets and used "Around the World" to illustrate exponentiation"  
+**Jared** writes "the best thing I made this year is a series of surreal, yet educational, videos covering the basics of computer science. It's a collaborative project with my younger brother, JR. Here's a link to the first video, [What is Computer Science?"](https://youtu.be/bJKltx0MFmI) But my absolute favorite in the series is ["Powers of 2"](https://youtu.be/_fSrOYzClL0), in which we constructed Daft Punk-inspired Arduino-powered robot puppets and used "Around the World" to illustrate exponentiation."  
 
 ## Cool Websites
 
