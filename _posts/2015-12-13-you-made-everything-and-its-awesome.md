@@ -73,7 +73,7 @@ That's why my bedroom is the best thing I made all year."
 
 ## Books
 
-**Mickey** writes [a children's book](https://www.kickstarter.com/projects/mickeylin/baby-sherlock-the-crumbs-of-baskerville) called Baby Sherlock: The Crumbs of Baskerville.  
+**Mickey** wrote [a children's book](https://www.kickstarter.com/projects/mickeylin/baby-sherlock-the-crumbs-of-baskerville) called Baby Sherlock: The Crumbs of Baskerville.  
 
 **Miri** published a photo book titled [Berlin Mirimalism.](http://www.miriberlinphotography.com/books/)  
 
@@ -95,7 +95,7 @@ That's why my bedroom is the best thing I made all year."
 
 **Laura** made this chart showing which episode of a show gets viewers hooked:
 
-<center>![Chart showing which episode of Netflix gets people hooked](http://gallery.tinyletterapp.com/05a30dc61d89c939751974419f2f410a48f7d744/images/21ffc0b6-6af7-4bbc-a85e-1119fa3f73b9.png)</center>
+![Chart showing which episode of Netflix gets people hooked](http://gallery.tinyletterapp.com/05a30dc61d89c939751974419f2f410a48f7d744/images/21ffc0b6-6af7-4bbc-a85e-1119fa3f73b9.png)
 
 ## Chemistry-Related Comic Book
 
@@ -122,7 +122,7 @@ Family = 3."
 
 **Stephen** participated in a "one-year experiment in [joint blogging on community engagement.](http://cele.sog.unc.edu/)<a>"  
 
-**Andy** made a blog with Melanie Cooper, who he met through one of this newsletter's previous experiments. (The one where everyone got a random penpal and was asked to share their passion with a stranger.) "After we started chatting back and forth, we decided to collaborate on</a> [a blog called Randomly Matched](http://randomlymatched.blogspot.com/), which really opened my eyes to the justice and prison system, especially how it works (or more accurately doesn't) work for women," he writes. "Not only that, but Melanie is a delightful person to know, and I'm a better person all around for it."  
+**Andy** made a blog with Melanie Cooper, who he met through one of this newsletter's previous experiments. (The one where everyone got a random penpal and was asked to share their passion with a stranger.) "After we started chatting back and forth, we decided to collaborate on [a blog called Randomly Matched](http://randomlymatched.blogspot.com/), which really opened my eyes to the justice and prison system, especially how it works (or more accurately doesn't) work for women," he writes. "Not only that, but Melanie is a delightful person to know, and I'm a better person all around for it."  
 
 ## Computer Science Video
 
@@ -317,7 +317,7 @@ My friend Arthur, a gay black man, immediately bought a print to give to his mot
 
 **Josh** writes "I took this photo of a musician who was on the show backstage after a sound check. His name is Malcolm Holcombe, and he kind of presents as a wild man. But his music is intricate and tender. So unexpected. I didn't pose him. I pointed my camera at him and he just sort of gave me a piece of himself. (That's my favorite thing about portraiture) And when he was done, he was done. Thankfully I was prepared well enough so that everything was technically correct in the camera on the first click."
 
-<center>![](http://gallery.tinyletterapp.com/05a30dc61d89c939751974419f2f410a48f7d744/images/e85fe013-53d6-4ab4-a7d1-124abb32e4db.jpg)</center>
+![portrait of Malcolm](http://gallery.tinyletterapp.com/05a30dc61d89c939751974419f2f410a48f7d744/images/e85fe013-53d6-4ab4-a7d1-124abb32e4db.jpg)
 
 ## Podcasts
 
