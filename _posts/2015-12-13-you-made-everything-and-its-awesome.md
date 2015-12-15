@@ -31,7 +31,7 @@ Mel
 
 ## About section for Stamp-Related Website
 
-**David** writes "I contribute webmastering and write some content for a non-profit environmental conservation organization. The web site has been running for a couple of years, but it seemed to me that we were missing a one-page explanation of what the group was all about, with an elevator pitch for a lede. So I wrote [Stamp Basics.](http://www.friendsofthestamp.org/learn/stamp-basics/)"  
+**David** writes, "I contribute webmastering and write some content for a non-profit environmental conservation organization. The web site has been running for a couple of years, but it seemed to me that we were missing a one-page explanation of what the group was all about, with an elevator pitch for a lede. So I wrote [Stamp Basics.](http://www.friendsofthestamp.org/learn/stamp-basics/)"  
 
 ## Apps
 
@@ -41,7 +41,7 @@ Mel
 
 **Maria** nominates [this story about a gun with an attached red laser](http://s3.amazonaws.com/uploads.knightlab.com/storymapjs/75f7d49adcc7fc9f8576c585174ec8c8/a-9mm-glocks-travels-in-providence/index.html), which was produced by her colleagues. "We thought this story map was the right way to tell this story," she says. She also sends along [this Storify](https://storify.com/mariacap/on-twitter-strong-reaction-to-raceinri-interviews-). "This was a powerful moment for our 2015 public-service project team."  
 
-**Rob** writes "I helped put together [the Web presentation of this story](http://cloud.registerguard.com/brian-babbs-final-hour/) and I'm pretty proud of my coworkers' reporting and the final product. The story deconstructs the confusing police response to a veteran struggling with PTSD. We tried to build a narrative around the text while using 911 audio, police statements and the dash cam footage of an armored vehicle, as well as interviews with others, to assist the reader in understanding what actually happened."  
+**Rob** writes, "I helped put together [the Web presentation of this story](http://cloud.registerguard.com/brian-babbs-final-hour/) and I'm pretty proud of my coworkers' reporting and the final product. The story deconstructs the confusing police response to a veteran struggling with PTSD. We tried to build a narrative around the text while using 911 audio, police statements and the dash cam footage of an armored vehicle, as well as interviews with others, to assist the reader in understanding what actually happened."  
 
 **Peter** made an [audio search engine](http://audiosear.ch) with his coworkers.  
 
@@ -89,7 +89,9 @@ That's why my bedroom is the best thing I made all year."
 
 **Maria** writes, "I've been working for 20 years. This past July I left my job with the notion of working for myself. That's what I've been doing since. It's all things one can imagine and more. Challenging, scary, and thrilling. But so right in so many ways. I gather inspiration from lots of places and folks. And I have to say you are not a small measure of that inspiration. Here's to a great new year for everyone."  
 
-**Caitie** writes "I left my job as a Senior Foreign Policy Advisor in Congress to make [The Lightning Notes](http://thelightningnotes.com/about/), a short daily post to help us move the world forward. It features [great ideas](http://thelightningnotes.com/2015/08/04/how-to-overwhelm-the-world/) and [striking stories](http://thelightningnotes.com/2015/10/19/the-antidote-to-shame/) to remind us that we matter and improving the world is our matter."  
+**Caitie** writes, "I left my job as a Senior Foreign Policy Advisor in Congress to make [The Lightning Notes](http://thelightningnotes.com/about/), a short daily post to help us move the world forward. It features [great ideas](http://thelightningnotes.com/2015/08/04/how-to-overwhelm-the-world/) and [striking stories](http://thelightningnotes.com/2015/10/19/the-antidote-to-shame/) to remind us that we matter and improving the world is our matter."
+
+**Will** writes, "I left Wisconsin, collected some furniture, and moved to DC to start at a dream job working alongside Mel and many other wonderful people. The best part about this move was that I was able to help create my own workload and area of ownership by noticing what needed to be done and doing it. It's been everything I hoped, and so much more."
 
 ## Charts
 
@@ -126,11 +128,11 @@ Family = 3."
 
 ## Computer Science Video
 
-**Jared** writes "the best thing I made this year is a series of surreal, yet educational, videos covering the basics of computer science. It's a collaborative project with my younger brother, JR. Here's a link to the first video, [What is Computer Science?"](https://youtu.be/bJKltx0MFmI) But my absolute favorite in the series is ["Powers of 2"](https://youtu.be/_fSrOYzClL0), in which we constructed Daft Punk-inspired Arduino-powered robot puppets and used "Around the World" to illustrate exponentiation"  
+**Jared** writes "the best thing I made this year is a series of surreal, yet educational, videos covering the basics of computer science. It's a collaborative project with my younger brother, JR. Here's a link to the first video, [What is Computer Science?"](https://youtu.be/bJKltx0MFmI) But my absolute favorite in the series is ["Powers of 2"](https://youtu.be/_fSrOYzClL0), in which we constructed Daft Punk-inspired Arduino-powered robot puppets and used "Around the World" to illustrate exponentiation."  
 
 ## Cool Websites
 
-**Cassie** writes "The best thing I (tried) to make was [Dollar a Day](dollaraday.co), a platform for micro-gifting to charity on a daily basis. We hand-picked the charities, everybody signed up to automatically give $1/day. It was a part-time experiment, built on mostly volunteer hours, definitely a labor of love, and we ran it on the side for a full year before we decided to wrap up. We open-sourced the code and posted some thoughts on lessons learned, though, in the hopes that another team of folks will take up the mantle and continue to innovate on the idea.  
+**Cassie** writes, "The best thing I (tried) to make was [Dollar a Day](dollaraday.co), a platform for micro-gifting to charity on a daily basis. We hand-picked the charities, everybody signed up to automatically give $1/day. It was a part-time experiment, built on mostly volunteer hours, definitely a labor of love, and we ran it on the side for a full year before we decided to wrap up. We open-sourced the code and posted some thoughts on lessons learned, though, in the hopes that another team of folks will take up the mantle and continue to innovate on the idea.  
 
 Objectively, I am sure some people would say Dollar a Day was a "failure." (It never got higher than 1,200 donors.) However, I reflect on it as a scrappy experiment where I learned tons, connected meaningfully with my small team and community, and (at the very least) seeded the idea of something into the world that could go onto be impactful."  
 
