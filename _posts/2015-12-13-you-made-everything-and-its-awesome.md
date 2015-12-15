@@ -377,7 +377,7 @@ but i never drank water that way before.
 
 ## Resumes or Resume-Related Businesses
 
-**Winston** was very proud of [the resume](http://http://www.winstonstruye.com/resume.html) he made for himself.  
+**Winston** was very proud of [the resume](http://www.winstonstruye.com/resume.html) he made for himself.  
 
 **Bridgett** started [a business](awesomeresume.squarespace.com) editing resumes and cover letters. "After years of editing dozens applications materials for friends for free, I decided to see if I could actually get paid to do some of this work, and (surprise!) I've been able to help more people because of it," she says. "I just helped a friend land her dream job at Buffer! It was very exciting."  
 
