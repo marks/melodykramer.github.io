@@ -158,7 +158,7 @@ Objectively, I am sure some people would say Dollar a Day was a "failure." (It n
 
 **Anton** made a system that aggregates emails from the city of Minneapolis. He writes "My city government (I'm in Minneapolis) has over 100 email separate listservs for updates from various departments, but has no central place where all these updates are kept, so you can't see them all in one place. This was kinda frustrating, especially for a government transparency advocate like myself. I didn't want to have my inbox flooded with updates but I did want to have a chance to look at all the updates at a glance once a week or so just to see what's going on.  
 
-So my hacker solution was to create a new email account which subscribes to all the listservs, then post the emails to a wordpress site, then tweet out a link to the post. The site isn't very polished, but it's useful enough for me (and about 40 Twitter followers!) It's [@MplsAnnounce](https://twitter.com/mplsannounce) on Twitter if you want to check it out."  
+So my hacker solution was to create a new email account which subscribes to all the listservs, then post the emails to a wordpress site, then tweet out a link to the post. The site isn't very polished, but it's useful enough for me (and about 40 Twitter followers!) It's [MplsAnnounce](https://twitter.com/mplsannounce) on Twitter if you want to check it out."  
 
 ## Essays
 
@@ -246,6 +246,10 @@ So my hacker solution was to create a new email account which subscribes to all 
 **Sandor** made a [massive Hannukah-themed game](http://hanukkah.lol/) that's being played by thousands of people on Reddit and on Slack.  
 
 **Wayan** made [a version](https://www.kickstarter.com/projects/134026492/jadedaid/description) of Cards Against Humanity for people who work in international development.  
+
+## Geneology List
+
+**Tod** started [an awesome list](https://github.com/todrobbins/awesome-gedcom) for working with GEDCOM geneaology data. "Hopefully it will be useful for anyone wanting to work programmatically with family history pedigrees and the like."
 
 ## Giant Squid Video
 
@@ -423,4 +427,4 @@ but i never drank water that way before.
 
 ## Zine
 
-**Sonya** made a zine called [User-Friendly Urbanism.](http://www.tradeoffs.press/product/user-friendly-urbanism-against-preservation-for-its-own-sake)
+**Sonya** made a zine called [User-Friendly Urbanism.](http://tradeoffspress.bigcartel.com/product/user-friendly-urbanism-against-preservation-for-its-own-sake)
