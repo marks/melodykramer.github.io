@@ -1,7 +1,4 @@
-# Dependencies
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+
 
 # Permalinks
 permalink:        pretty
@@ -12,6 +9,11 @@ tagline:          'Thinking and working in public'
 description:      'A little home for <a href="https://www.twitter.com/mkramer">mkramer</a> on the Internet'
 url:              https://melodykramer.github.io
 baseurl:          ''
+gravatar_id: ff608aff04ab44f74302d1f86cddad39
+ga_username: 'UA-18088627-1'
+twitter:
+  username: "@mkramer"
+  account_id: "10232022"
 
 author:
   name:           'Melody Kramer'
@@ -22,6 +24,16 @@ paginate:         5
 github:
   repo:           https://github.com/melodykramer
 
+
+#permalink structure, see https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:year/:month/:day/:title/
+
+
 #gems
 
 gems: [jekyll-paginate, jekyll-gist]
+
+# Dependencies
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

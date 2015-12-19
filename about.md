@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I [currently work on a variety of projects](https://18f.gsa.gov/team/melody/) at [18F](https://18f.gsa.gov/), a digital design and technology agency within the U.S. government. I also write [a weekly column](http://www.poynter.org/author/melody-kramer/) for the Poynter Institute and lead [Media Public](http://www.mediapublic.io), a public media startup that's funded through a Knight Prototype Grant.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I was a 2014-2015 Visiting Nieman Fellow at Harvard University, where I [wrote a report](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/) on how public media could better serve its audience by broadening the definition of membership.
 
-There are currently two themes built on Poole:
+Previously, I worked at NPR, where I led product teams and managed products that helped NPR better understand its existing audience or reach entirely new ones. I worked firmly at the intersection of our editorial and product teams, and led the development of products that reached millions of listeners and online users.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Previously, I launched and then managed digital at Fresh Air with Terry Gross and worked as an editor and writer at National Geographic Magazine. Prior to that, I wrote for, produced, edited, and directed Wait Wait Don't Tell Me, NPR's humor show. I started my career on a Kroc Fellowship, a full-year paid reporting fellowship at NPR that's given to three early-career journalists each year.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I'm from Philadelphia, but currently live in Carrboro, NC with my wife and our dog Sadie. We enjoy hiking, exploring small towns, cooking, and watching trashy TV.
