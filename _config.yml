@@ -1,81 +1,27 @@
-#Jekyll config file
+# Dependencies
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-name: Melody Kramer
-description: "Media, Civic Tech, Audience Engagement, Bagels"
-gravatar_id: ff608aff04ab44f74302d1f86cddad39
-job_title: Digital Strategist
-employer: 18F
-url: "https://melodykramer.github.io"
-location:
-  city: Washington
-  state: District of Columbia
-  country: United States of America
-ga_username: 'UA-18088627-1'
-twitter:
-  username: "@mkramer"
-  account_id: "10232022"
-google_plus_id: 109084859981590337506
-branch: master
-   
-#files to exclude, array
-exclude:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE
-  - readme.md
-  - bundle
-  - src
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - bower.json
-  - package.json
-  - script
-  - test
-  - less
-  - scss
-  - media
-  - feature-detects
-  - composer.json
-  - component.json
-  - grunt.js
-  - assets/vendor/font-awesome/src
-  - assets/vendor/bootstrap/js
-  - assets/vendor/bootstrap/less
-  - assets/vendor/font-awesome/less
-  - assets/vendor/font-awesome/scss
-  - assets/vendor/font-awesome/src
-  - assets/vendor/modernizr/feature-detects
-  - assets/vendor/modernizr/media
-  - assets/vendor/modernizr/test
-  - ".bundle"
-  - vendor
+# Permalinks
+permalink:        pretty
 
-#number of items in RSS feed
-rss_limit: 10
+# Setup
+title:            Melody Kramer
+tagline:          'Thinking and working in public'
+description:      'A little home for <a href="https://www.twitter.com/mkramer">mkramer</a> on the Internet'
+url:              https://melodykramer.github.io
+baseurl:          ''
 
-#permalink structure, see https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:year/:month/:day/:title/
+author:
+  name:           'Melody Kramer'
+  url:            https://twitter.com/mkramer
 
-# Frontmatter defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
+paginate:         5
 
+github:
+  repo:           https://github.com/melodykramer
 
-#build config
-highlighter: pygments
-markdown: kramdown
-timezone: America/New_York
-encoding: UTF-8
+#gems
 
-gems:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-redirect-from
-  - jekyll-sitemap
+gems: [jekyll-paginate, jekyll-gist]

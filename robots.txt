@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /tag*
-Disallow: /tags*
-Allow: /
-Sitemap: http://melodykramer.github.io/sitemap.xml
