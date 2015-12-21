@@ -3,11 +3,11 @@ layout: page
 title: Writing
 ---
 
-I've written for Esquire Magazine, National Geographic Magazine, NPR, and The New York Times and filed audio stories that have aired on public radio stations across the country. I currently write a [weekly column for Poynter](http://www.poynter.org/author/melody-kramer/) and occasionally contribute to other publications. At various points, I've had the #1 piece on Medium, the #1 piece on Storify, and the #1 piece on Hacker News.
+I've written for many places, including Esquire Magazine, National Geographic Magazine, NPR, and The New York Times and filed audio stories that have aired on public radio stations across the country. I currently write a [weekly column for Poynter](http://www.poynter.org/author/melody-kramer/) and occasionally contribute to other publications. At various points, I've had the #1 piece on Medium, the #1 piece on Storify, and the #1 piece on Hacker News. I love writing tutorials, how-tos, and explainers that make difficult concepts really easy to understand.
 
 My [newsletter](http://www.tinyletter.com/melodykramer) prompts thousands of people to make creative things together.
 
-## Highlights
+## Selected Clips
 
 [The most exciting company in media sells a card game](http://www.niemanlab.org/2015/12/the-most-exciting-company-in-media-sells-a-card-game/)
 

@@ -10,7 +10,7 @@ description:      'A little home for <a href="https://www.twitter.com/mkramer">m
 url:              https://melodykramer.github.io
 baseurl:          ''
 gravatar_id: ff608aff04ab44f74302d1f86cddad39
-ga_username: 'UA-18088627-1'
+google_analytics_id: 'UA-18088627-1'
 twitter:
   username: "@mkramer"
   account_id: "10232022"
