@@ -22,7 +22,7 @@ You can check out e[nergy meters][10] in Leadville, Colorado.
 
 In **Toronto**, you can check out people at a [human library][11].
 
-In** Chicago and New York City**, you can take out [THE INTERNET][12]. h/t @[civicwhitaker][13]
+In **Chicago and New York City**, you can take out [THE INTERNET][12]. h/t @[civicwhitaker][13]
 
 In **Ann Arbor**, you can also take out a [book club in a box][8]. That&#8217;s multiple copies of a book, the film version if it exists, and questions to ask a group of friends.  (This also exists at the [Edwardsville Public Library][14] in Illinois h/t [Sue Diaz][15].
 
